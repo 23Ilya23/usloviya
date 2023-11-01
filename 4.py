@@ -1,4 +1,3 @@
-print("Координаты точки:")
 x = float(input("x = "))
 y = float(input("y = "))
 if x > 0 and y > 0:
